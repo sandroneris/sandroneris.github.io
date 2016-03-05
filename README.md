@@ -1,4 +1,4 @@
-# [wselectronics.tech](https://www.wselectronics.tech)
+# [wselectronics.tech](www.wselectronics.tech)
 
 website for WS Electronics.
 
