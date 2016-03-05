@@ -1,3 +1,22 @@
-# WS Electronics static website -made with jekyll
+# [wselectronics.tech](https://www.wselectronics.tech)
 
-A single page Jekyll for electronis stores. It's easily customizable and responsive. It comes with svg icons, google map and a working contact form.
+website for WS Electronics.
+
+## File structure
+
+The basic file structure for the project is organized in the following way:
+
+```
+.
+|-- _includes
+|-- _layouts
+|-- _plugins
+|-- _posts
+|-- _site
+|-- assets
+|-- _config.yml
+`-- index.html
+```
+## License
+
+[MIT License]
