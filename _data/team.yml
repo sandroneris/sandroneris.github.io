@@ -1,0 +1,34 @@
+- name: Sandro Neris - Owner and Sales Manager
+  image: team4.jpg
+  email: sandro.neris@hotmail.com
+  phone: (650) 921-4831
+
+- name: Darth Vader
+  image: team4.jpg
+  email: email@gmail.com
+  phone: (999) 999-9999
+
+- name: David Noleto - Web/App Developer :)
+  image: team2.png
+  email: dr.dave2@gmail.com
+  phone: (650) 921-4831
+
+- name: Yoshi
+  image: team4.jpg
+  email: email@gmail.com
+  phone: (000) 000-0000
+
+#- name: Britta Perry
+#  image: team.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21
+
+#- name: Troy Barnes
+#  image: team.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21
+
+#- name: Annie
+#  image: team.jpg
+#  email: email@gmail.com
+#  phone: 9659 43 21

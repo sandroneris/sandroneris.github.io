@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WS Electronics | Electronic Jekyll Theme</title>
+    <description>A responsive Jekyll theme for computer store.</description>
+    <link>www.wselectronics.tech/</link>
+    <atom:link href="www.wselectronics.tech/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 04 Mar 2016 17:42:10 -0800</pubDate>
+    <lastBuildDate>Fri, 04 Mar 2016 17:42:10 -0800</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>

@@ -1,0 +1,66 @@
+# Site settings
+title: WS Electronics | Electronic Jekyll Theme
+description: "A responsive Jekyll theme for computer store."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "www.wselectronics.tech" # the name of your domain
+logo_url: svg/min/logoWS.png
+
+# Hero
+hero: 
+    hero_img: hero.jpg
+    hero_title: WS Electronics
+    hero_description: Computer repair and electronics for sale
+
+# Contact form from simple form
+api_token: 2f0cfeef2cae6ae2b0121ff42a020b79
+
+# Contact info
+contact:
+    phone: (415) 666 5205
+    phoneopt1: (650) 892 1100
+    phoneopt2: (650) 550 4629
+    email: sandro.neris@hotmail.com
+    address: 193 87 St. Suite C, <br> Daly City, CA, 94015
+
+# Opening hours
+monday_friday: 10:30 – 18:00
+saturday: 11:00 – 16:00
+#sunday: 10:00 – 15:00
+
+# Testimonials
+testimonials:
+    testimonials_img: parallax.jpg
+
+# Map
+map:
+    zoom: 17
+    address: 193 87 St. Suite C, Daly City, CA
+    address_details: svg/min/logo.svg
+
+# Social settings
+facebook: http://facebook.com
+twitter: http://twitter.com
+instagram: http://instagram.com
+youtube: http://youtube.com
+#skype: skype:obaez_design?userinfo
+#feed: yes
+
+# Footer
+copyright: © 2016 WS Electronics - All rights reserved
+
+# Build settings
+markdown: kramdown
+
+exclude: [
+    package.json,
+    Gruntfile.js,
+    node_modules,
+    .sass-cache,
+    Gemfile,
+    Gemfile.lock,
+    .gitignore
+]
+
+# Theme Settings
+analytics: 
+google_verification:
