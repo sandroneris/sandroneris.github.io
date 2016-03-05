@@ -1,6 +1,6 @@
 # Site settings
-title: WS Electronics | Electronic Jekyll Theme
-description: "A responsive Jekyll theme for computer store."
+title: WS Electronics
+description: "WS Electronics computer repair."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.wselectronics.tech" # the name of your domain
 logo_url: svg/min/logoWS.png
