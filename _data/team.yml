@@ -1,20 +1,20 @@
 - name: Sandro Neris - Owner and Sales Manager
-  image: team4.jpg
+  image: team.jpg
   email: sandro.neris@hotmail.com
-  phone: (650) 921-4831
+  phone: (415) 666-5205
 
 - name: Darth Vader
-  image: team4.jpg
+  image: team.jpg
   email: email@gmail.com
   phone: (999) 999-9999
 
 - name: David Noleto - Web/App Developer :)
-  image: team2.png
+  image: team.png
   email: dr.dave2@gmail.com
   phone: (650) 921-4831
 
 - name: Yoshi
-  image: team4.jpg
+  image: team.jpg
   email: email@gmail.com
   phone: (000) 000-0000
 
