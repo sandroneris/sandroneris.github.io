@@ -3,7 +3,7 @@ title: WS Electronics
 description: "WS Electronics computer repair."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.wselectronics.tech" # the name of your domain
-logo_url: svg/min/logoWS2.png
+logo_url: ../img/logoWS2.png
 
 # Hero
 hero: 
